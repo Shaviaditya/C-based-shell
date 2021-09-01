@@ -26,6 +26,6 @@ Compile and start the terminal as
 ```
 ## Overview!
 
-<img src="https://user-images.githubusercontent.com/75497269/131733936-cb2ef1af-71a6-49fd-b22e-30ff9a90e25d.png" width="1000" height="600"><img src="https://user-images.githubusercontent.com/75497269/131734319-6aee8a63-6970-4915-a7ec-c610f80f4d4a.png" width="1000" height="600">
+<img src="https://user-images.githubusercontent.com/75497269/131733936-cb2ef1af-71a6-49fd-b22e-30ff9a90e25d.png" width="1000" height="500"><img src="https://user-images.githubusercontent.com/75497269/131734319-6aee8a63-6970-4915-a7ec-c610f80f4d4a.png" width="1000" height="500">
 
 
