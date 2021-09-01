@@ -14,7 +14,7 @@ C- Language
 ## Install
 Just download the Repo,and run the C file using a g++ compiler from within your shell.
 
-##Run the following command on local terminal
+## Run the following command on local terminal
 Run the file on the terminal
 ```sh
 gcc shell.c
@@ -24,8 +24,9 @@ Compile and start the terminal as
 ```sh
 ./shell
 ```
-##Overview!
-<img src="https://user-images.githubusercontent.com/75497269/131733936-cb2ef1af-71a6-49fd-b22e-30ff9a90e25d.png" width="500" height="300">
-<img src="https://user-images.githubusercontent.com/75497269/131734319-6aee8a63-6970-4915-a7ec-c610f80f4d4a.png" width="500" height="300">
+## Overview!
+
+<img src="https://user-images.githubusercontent.com/75497269/131733936-cb2ef1af-71a6-49fd-b22e-30ff9a90e25d.png" width="400" height="200">
+<img src="https://user-images.githubusercontent.com/75497269/131734319-6aee8a63-6970-4915-a7ec-c610f80f4d4a.png" width="400" height="200">
 
 
